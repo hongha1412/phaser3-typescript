@@ -1,0 +1,9 @@
+{
+  "name": "phaser3-typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "detect-collisions": "^9.2.3",
+    "phaser": "3.60.0"
+  }
+}
